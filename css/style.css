@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Nunito', sans-serif;
+}
+
+.header{
+    padding: 20px 0;
+}
+
+.header-left{
+    display: flex;
+}
+
+.wrap{
+    width: 1440px;
+    margin: 0 auto; 
+}
+
+.header-wrap{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+         
+.logo-link{
+    margin-right: 19px;
+}
+
+.text-link{
+    text-decoration: none;
+    margin: 0 auto;
+    margin-right: 28px;
+    margin-top: 10px;
+    margin-bottom: -1000px;
+}
+
+.text{
+    margin-left: 40px;
+}
+
+.header_text{
+    font-size: 16px;
+    color: black;
+    font-weight: 400;
+}
+
+
+.promo-wrap{
+    background-image: url(../img/mylove2.png) ;
+    min-height: 546px ;
+    background-position-x: 751px ;
+    background-position-y: 1px ;
+    background-repeat:no-repeat;
+    display: flex ;
+    align-items: center ;
+    justify-content: flex-end ;
+
+}
+
+.appl {
+    height: 175px;
+left: 25px;
+top: 450px;
+    position:absolute;
+}
+.goodleee {
+    height: 475px;
+left: 25px;
+top: 525px;
+    position:absolute;
+}
+
+
+.promo-title-main-text{
+    margin: 0;
+    font-weight: Nunito;
+    font-size: 45px;
+    letter-spacing: 0.25px;
+    color: #ff0000;
+    position: absolute;
+    height: 405px;
+    left: 32px;
+    top: 435px;
+}
+
+.text2{
+    margin: 0;
+    font-weight: Nunito;
+    font-size: 40px;
+    letter-spacing: 0.25px;
+    color: #ff0808;
+    position: absolute;
+    height: 175px;
+    left: 30px;
+    top: 390px;
+
+}
+        
+
+
+.text3{
+    margin: 0;
+    font-weight: Nunito;
+    font-size: 30px;
+    letter-spacing: 0.25px;
+    color: #ff0000;
+    position: absolute;
+    height: 175px;
+    left: 30px;
+    top: 570px;
+
+}
+
+
+.text99{
+    height: 1175px;
+    left: 1130px;
+    top: 4px;
+
+}
+
+.rightFS{
+    height: 1175px;
+    left: 1130px;
+    top: 400px;
+}
+
